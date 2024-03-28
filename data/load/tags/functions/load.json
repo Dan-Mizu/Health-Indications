@@ -1,6 +1,3 @@
 {
-    "values": [
-        "sourcecraft.5:on_event/on_load_verify",
-        "healthindications.3:on_event/on_load_verify"
-    ]
+	"values": ["healthindications:on_event/on_load"]
 }

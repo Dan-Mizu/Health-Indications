@@ -1,5 +1,5 @@
 {
     "values": [
-        "healthindications.3:api/trigger_health_bar"
+        "healthindications:api/trigger_health_bar"
     ]
 }
