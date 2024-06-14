@@ -42,5 +42,3 @@ execute unless score #healthindications.option.health_bar.better_sync healthindi
 function healthindications:loop/per_tick
 function healthindications:loop/per_5_ticks
 function healthindications:loop/per_20_ticks
-
-say LOADEEED

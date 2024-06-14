@@ -1,11 +1,15 @@
 {
 	"display": {
+		"icon": {
+			"id": "minecraft:player_head",
+			"components": {
+				"minecraft:profile": {
+					"name": "DanMizu"
+				}
+			}
+		},
 		"title": "DanMizu",
 		"description": "",
-		"icon": {
-			"item": "minecraft:player_head",
-			"nbt": "{SkullOwner:\"DanMizu\"}"
-		},
 		"background": "minecraft:textures/block/black_concrete_powder.png",
 		"show_toast": false,
 		"announce_to_chat": false

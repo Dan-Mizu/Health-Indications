@@ -1,10 +1,10 @@
 {
 	"display": {
+		"icon": {
+			"id": "minecraft:knowledge_book"
+		},
 		"title": "Installed Datapacks",
 		"description": "",
-		"icon": {
-			"item": "minecraft:knowledge_book"
-		},
 		"background": "minecraft:textures/block/black_concrete_powder.png",
 		"show_toast": false,
 		"announce_to_chat": false
