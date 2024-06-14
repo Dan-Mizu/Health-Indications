@@ -38,6 +38,11 @@ execute unless score #healthindications.option.health_bar.toggle healthindicatio
 execute unless score #healthindications.option.health_bar.affect_players healthindications.data matches 0.. run scoreboard players set #healthindications.option.health_bar.affect_players healthindications.data 1
 execute unless score #healthindications.option.health_bar.better_sync healthindications.data matches 0.. run scoreboard players set #healthindications.option.health_bar.better_sync healthindications.data 1
 
+#resourcepack options enabled
+execute unless score #healthindications.option.damage_indication.custom_texture healthindications.data matches 0.. run scoreboard players set #healthindications.option.damage_indication.custom_texture healthindications.data 1
+execute unless score #healthindications.option.health_bar.custom_texture healthindications.data matches 0.. run scoreboard players set #healthindications.option.health_bar.custom_texture healthindications.data 1
+execute unless score #healthindications.option.health_bar.status_effects healthindications.data matches 0.. run scoreboard players set #healthindications.option.health_bar.status_effects healthindications.data 1
+
 #start loops
 function healthindications:loop/per_tick
 function healthindications:loop/per_5_ticks
