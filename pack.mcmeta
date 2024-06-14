@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 15,
+		"pack_format": 48,
 		"description": [
 			{
 				"text": "See Player and Mob Health!",
@@ -13,7 +13,7 @@
 			},
 			{ "text": " " },
 			{
-				"text": "[1.20+]",
+				"text": "[1.21+]",
 				"color": "green"
 			},
 			{ "text": " " },
